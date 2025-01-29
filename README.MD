@@ -12,6 +12,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
+## 📚 Onde ouvir o podcast
+[Episódio 1: Começando do Zero com Lógica de Programação] (https://www.notion.so/Epis-dio-1-Come-ando-do-Zero-com-L-gica-de-Programa-o-189dd4000fac815f83d7fd23a551708e?pvs=4)
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
