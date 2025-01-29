@@ -37,8 +37,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo AI](https://www.Leonardo.ai/)
 - [TTS Maker](https://ttsmaker.com/br/)
-- [App Youcut]
-- [App Super Sound]
+- App Youcut
+- App Super Sound
 
 ## ✨ Como foi feito ?
 
